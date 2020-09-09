@@ -1,0 +1,22 @@
+AWS Beanstalk links 
+
+http://product-env.eba-qx2pk3km.ap-south-1.elasticbeanstalk.com/product - Assignment1 link
+
+http://coupons-env.eba-pkpvbxd2.ap-south-1.elasticbeanstalk.com/coupon  - Assignment2 link
+
+http://cartservice-env.eba-aijcp2jp.ap-south-1.elasticbeanstalk.com/cart - Assignment3 link 
+
+
+
+
+Specific links to fetch certain items- 
+
+http://product-env.eba-qx2pk3km.ap-south-1.elasticbeanstalk.com/product/PNC
+
+http://coupons-env.eba-pkpvbxd2.ap-south-1.elasticbeanstalk.com/coupon/15OFF
+
+
+
+
+
+
